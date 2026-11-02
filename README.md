@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FreeTextToSpeechApp Documentation
 ## version: 1.0.0
 
@@ -45,3 +46,6 @@ curl -X POST http://localhost:8000/api/ \
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# django-text-to-speech
+>>>>>>> 0b60e2569c20ee2f859a6d8cb52986bf17630f19
